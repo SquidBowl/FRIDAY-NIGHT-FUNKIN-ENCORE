@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-21
+			],
+			"anim": "Dodge",
+			"fps": 24,
+			"name": "Pico Dodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-47,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-40,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-12,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-57,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-37,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-4,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "LCool"
+		},
+		{
+			"offsets": [
+				-77,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "RCool"
+		},
+		{
+			"offsets": [
+				-15,
+				-87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "DCool"
+		},
+		{
+			"offsets": [
+				-71,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "UCool"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-74
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-54
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-24
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-49
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				2
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Retry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Loop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				9
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Dead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-49
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfdeadnew",
+	"position": [
+		-210,
+		240
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-200,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

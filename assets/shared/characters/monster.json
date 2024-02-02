@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				17,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-22,
+				-184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-11,
+				-102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-13,
+				-77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				6,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "AU"
+		},
+		{
+			"offsets": [
+				21,
+				-181
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "AD"
+		},
+		{
+			"offsets": [
+				-23,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "AL"
+		},
+		{
+			"offsets": [
+				317,
+				-84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "AR"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Newmonster",
+	"position": [
+		30,
+		10
+	],
+	"healthicon": "zib",
+	"flip_x": false,
+	"healthbar_colors": [
+		46,
+		50,
+		63
+	],
+	"camera_position": [
+		-280,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
