@@ -1,5 +1,8 @@
 # FRIDAY NIGHT FUNKIN' ENCORE
 A mod for Friday Night Funkin that features (technically) 3 songs. After 2 years of development, the demo is finally here.
+
+Download the compiled version here
+https://gamebanana.com/mods/493361
 _____________________________________
 I programmed this for commission, and I was asked to make the source code public, so here it is if you're interested.
 ## Credits
